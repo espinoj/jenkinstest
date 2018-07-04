@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "building\n"
 echo "testing\n"
-exit 0
+echo "done\n"
+exit 1
 
